@@ -1,0 +1,14 @@
+# Site settings
+title: Xinying's BLOG
+description: Life-sharing/ Travelling/ Pharmacology
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "xinying-web" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Xinying GUO
+user_description: I am major in Pharmacology. Love travelling. This blog is for sharing my life with my own thoughts and experinces. 
+user_title: Pharmacology Student
+email: 1614367690@qq.com
+# github_username:  xinying-web
+
+exclude: ['package.json', 'src' , 'node_modules']
